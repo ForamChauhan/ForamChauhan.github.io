@@ -1424,7 +1424,7 @@ PORTFOLIO
     }
     .intro-text h1 span {
         padding: 10px 21px;
-        background: #1abc9c;
+       /* background: #1abc9c; */
         color: #fff;
         font-size: 25px;
         display: block;
